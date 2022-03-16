@@ -1,28 +1,18 @@
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 300;
-  font-stretch: normal;
-  src: url(../fonts/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf) format('truetype');
+  src: url(../fonts/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 400;
-  font-stretch: normal;
-  src: url(../fonts/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf) format('truetype');
+  src: url(../fonts/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 500;
-  font-stretch: normal;
-  src: url(../fonts/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Open Sans';
+  font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 700;
-  font-stretch: normal;
-  src: url(../fonts/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf) format('truetype');
+  src: url(../fonts/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf) format('truetype');
 }

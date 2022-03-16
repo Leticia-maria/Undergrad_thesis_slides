@@ -1,12 +1,28 @@
 @font-face {
-  font-family: 'Nunito Sans';
+  font-family: 'Open Sans';
   font-style: normal;
-  font-weight: 400;
-  src: url(../fonts/pe0qMImSLYBIv1o4X1M8cce9I94.ttf) format('truetype');
+  font-weight: 300;
+  font-stretch: normal;
+  src: url(../fonts/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Nunito Sans';
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url(../fonts/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  src: url(../fonts/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
-  src: url(../fonts/pe03MImSLYBIv1o4X1M8cc8GBs5tU1Q.ttf) format('truetype');
+  font-stretch: normal;
+  src: url(../fonts/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf) format('truetype');
 }
